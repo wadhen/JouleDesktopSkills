@@ -4,9 +4,9 @@ A collection of custom skills for Joule Work Desktop.
 
 ## Structure
 
-skills/
-└── <skill-slug>/
-    └── SKILL.md
+    skills/
+    └── <skill-slug>/
+        └── SKILL.md
 
 ## Skills
 
